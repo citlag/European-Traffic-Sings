@@ -1,0 +1,1 @@
+CNN 8-layers is defined in the jupyter notebook and the pre-trained weights are provided for the different datasets
