@@ -1,4 +1,5 @@
 # Classification of Traffic Signs: The European Dataset
+![picture](img/abc.png)
 
 This repository contains the pre-trained weights obtained for the CNN architectures defined in folder "models" with two datasets:
 - GTSRB 
