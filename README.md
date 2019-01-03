@@ -11,11 +11,11 @@ The European Traffic Sign Dataset is available upon request to the email: citlal
 
 
 
-### Citation
+## Citation
 
 The full paper details can be found in [IEEE Access](https://ieeexplore.ieee.org/abstract/document/8558481).
 
-If you find our work useful for your research, please cite the following paper:
+If you find our work useful for your research, please cite our paper:
 ```
 @article{serna2018classification,
   title={Classification of Traffic Signs: The European Dataset},
