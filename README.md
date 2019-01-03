@@ -9,6 +9,10 @@ This repository contains the pre-trained weights obtained for the CNN architectu
 
 The European Traffic Sign Dataset is available upon request to the email: citlalli.gamez-serna@utbm.fr
 
+
+
+### Citation
+
 The full paper details can be found in [IEEE Access](https://ieeexplore.ieee.org/abstract/document/8558481).
 
 If you find our work useful for your research, please cite the following paper:
