@@ -7,7 +7,7 @@ This repository contains the pre-trained weights obtained for the CNN architectu
 - GTSRB 
 - Our proposed European dataset
 
-The European Traffic Sign Dataset is available upon request to the email: citlalli.gamez-serna@utbm.fr
+The European Traffic Sign Dataset is available upon request to the any of the following emails: citlalli.gamez-serna@utbm.fr, yassine.ruichek@utbm.fr
 
 
 
