@@ -7,7 +7,7 @@ This repository contains the pre-trained weights obtained for the CNN architectu
 - GTSRB 
 - Our proposed European dataset
 
-The European Traffic Sign Dataset is free for academic purposes and available upon request to the any of the following emails: citlalli.gamez-serna@utbm.fr, yassine.ruichek@utbm.fr
+The European Traffic Sign Dataset is free for academic purposes and available upon request to the any of the following emails: citlalli.gmzsna@gmail.com, yassine.ruichek@utbm.fr
 
 
 
